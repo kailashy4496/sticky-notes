@@ -1,0 +1,9 @@
+.container {
+  height: 100%;
+  width: 90%;
+}
+
+.heading h1 {
+  font-size: 45px;
+  padding-bottom: 2rem;
+}

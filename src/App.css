@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #494949;
+}
+
+.App {
+  height: 100%;
+  width: 100%;
+  color: aliceblue;
+  margin-top: 7%;
+  padding-left: 20%;
+}
